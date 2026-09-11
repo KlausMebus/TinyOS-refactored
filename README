@@ -1,0 +1,9 @@
+# TinyOS-refactored
+
+This is a repository for an experimental refactoring of TinyOS originally created by Scott Hanselman.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+IMPORTANT: Scott Hanselman retains the original copyright for TinyOS see the [TinyOS repository](https://github.com/shanselman/TinyOS) for more details and the original license information in [LICENSE-Org-TinyOS](THIRD-PARTY-NOTICES/LICENSE-Org-TinyOS).
