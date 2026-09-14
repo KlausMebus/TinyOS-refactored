@@ -1,0 +1,1 @@
+TinyOSCore.exe 7000 scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt scott1.txt scott2.txt 

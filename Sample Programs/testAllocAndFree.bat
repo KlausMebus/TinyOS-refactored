@@ -1,0 +1,1 @@
+TinyOSCore.exe 512 scott13.txt  
